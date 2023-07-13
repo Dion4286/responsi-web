@@ -191,7 +191,7 @@ const props = defineProps({
                     </div>
                     <div className="text-sm text-gray-600">
                         <img src="img/logo_Web.png" class="h-8 mr-3" alt=" Logo" />
-                        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark">Dosen AI</span>
+                        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark">Dionisius</span>
                     </div>
                 </div>
                 <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
@@ -338,7 +338,7 @@ const props = defineProps({
                         </a>
                     </li>
                 </ul>
-                <div className="text-sm text-gray-600 mr-4">&copy; Amikom. All rights reserved.</div>
+                <div className="text-sm text-gray-600 mr-4">&copy; Amikom. All rights reserved. Dion_4286</div>
             </div>
         </div>
 </footer></template>
